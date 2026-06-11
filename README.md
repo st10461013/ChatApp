@@ -18,6 +18,7 @@ The application is built in two parts:
 |------|-------|
 | Part 1 | User Registration and Login with input validation |
 | Part 2 | Messaging system with message tracking, hashing, and storage |
+| Part 3 | Storing data and displaying task report |
 
 ---
 
